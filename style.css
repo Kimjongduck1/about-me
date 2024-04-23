@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    text-align: center;
+    border: 1px solid darkblue;
+    padding: 1rem 2rem;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+img {
+    max-width: 80;
+}
+p {
+    font-size: 2rem;
+    color: red;
+    text-align: center;
+}
